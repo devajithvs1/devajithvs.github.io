@@ -60,7 +60,7 @@ window.onload=function() {
 function validate(){
 
 alert("Oh...WAIT.....\n\n\n'Deleting all....'");
-alert("You ruined my work...\nYou could've waited.....\n\n\n'Press ok to redirect to Version-1 of my website'");
+alert("You ruined my work...\nYou could've waited.....\n\n\n'Press OK to continue'");
 window.location = "home.html";
 
 }
