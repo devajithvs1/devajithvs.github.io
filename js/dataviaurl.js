@@ -42,7 +42,7 @@ var complete= lastpart.substring(0, period);
 complete= complete.replace(/-/g, "_");
 
 
-var url= "usercomments.php";
+var url= "http://dataviaurl.tk/usercomments.php";
 var username= document.getElementById("name_entered").value;
 var usercomment= document.getElementById("comment_entered").value;
 var vars= "name="+username+"&comment="+usercomment+"&webpage="+complete;
