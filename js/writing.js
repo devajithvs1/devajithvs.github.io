@@ -2,7 +2,7 @@ window.onload=function() {
 (function() {
   var openComment, styles, time, writeStyleChar, writeStyles;
 
-  styles = "/* \n * \"Website v2\"\n * Author : Devajith\n */\n\nbody {\n  background-color: #1a1c24; color: #fff;\n  font-size: 11px; line-height: 1.4;\n  -webkit-font-smoothing: subpixel-antialiased;\n}\n\n/* ...\n *\n * Oh, hey! Didn't see you there!\n *\n * I was upgrading this website.\n * Sure, you can watch.\n *\n *\n * But \n *\n * DONT CLICK THAT BUTTON ON TOP\n *\n *\n *\n * Well..... you can wait here\n * \n * I will go and have a coffee...*/";
+  styles = "/* \n * \"Website v2\"\n * Author - Devajith\n */\n\nbody {\n  background-color: #1a1c24; color: #fff;\n  font-size: 11px; line-height: 1.4;\n  -webkit-font-smoothing: subpixel-antialiased;\n}\n\n/* ...\n *\n * Oh, hey! Didn't see you there!\n *\n * I was upgrading this website.\n * Sure, you can watch.\n *\n *\n * But \n *\n * DONT CLICK THAT BUTTON ON TOP\n *\n *\n *\n * Well..... you can wait here\n * \n * I will go and have a coffee...*/";
 
 
 
