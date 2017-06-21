@@ -120,7 +120,7 @@ canvas {
 #overlay {
     position:fixed;
     
-    left: 0%;
+    left: 0.5%;
     width:22em;
     height:10em;
    
