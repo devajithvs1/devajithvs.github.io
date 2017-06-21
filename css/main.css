@@ -45,11 +45,11 @@
 }
 	body
        {
-           font-size:12px; 
+           font-size:20px; 
        }
        h1
        {
-           font-size:15px;
+           font-size:30px;
        }
   #container {
   position: relative;
@@ -64,7 +64,7 @@ canvas {
     position:fixed;
     
     left: 12%;
-    width:10em;
+    width:25em;
     height:10em;
    
 }
@@ -122,7 +122,7 @@ canvas {
     position:fixed;
     
     left: 10%;
-    width:15em;
+    width:25em;
     height:10em;
    
 }
