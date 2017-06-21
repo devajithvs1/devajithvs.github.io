@@ -95,7 +95,7 @@ canvas {
   display:block;
   float:left;
   width:100%;
-  padding-top:50%;
+  padding-top:25%;
   padding-bottom:50%;
   line-height:1em;
   margin-top:-0.5em;
@@ -121,8 +121,8 @@ canvas {
 #overlay {
     position:fixed;
     
-    left: 2%;
-    width:23em;
+    left: 0%;
+    width:30em;
     height:10em;
    
 }
