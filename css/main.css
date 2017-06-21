@@ -27,7 +27,7 @@
   background:#30588e;
 }
 	.round-button a {
-  margin-left:10%;
+  margin-left:0%;
   display:block;
   float:left;
   width:100%;
@@ -39,18 +39,11 @@
   text-align:center;
   color:#e2eaf3;
   font-family:Verdana;
-  font-size:1.2em;
+  font-size:0.9em;
   font-weight:bold;
   text-decoration:none;
 }
-	body
-       {
-           font-size:20px; 
-       }
-       h1
-       {
-           font-size:30px;
-       }
+	
   #container {
   position: relative;
 }
@@ -63,11 +56,12 @@ canvas {
 #overlay {
     position:fixed;
     
-    left: 12%;
-    width:30em;
+    left: 1%;
+    width:22em;
     height:10em;
    
 }
+
 
 }
 @media screen and (min-width: 321px) and (max-width: 480px) {
@@ -120,7 +114,7 @@ canvas {
 #overlay {
     position:fixed;
     
-    left: 0.5%;
+    left: 1%;
     width:22em;
     height:10em;
    
