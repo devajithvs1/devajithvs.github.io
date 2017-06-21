@@ -95,19 +95,18 @@ canvas {
   display:block;
   float:left;
   width:100%;
-  padding-top:25%;
-  padding-bottom:75%;
+  padding-top:50%;
+  padding-bottom:50%;
   line-height:1em;
   margin-top:-0.5em;
         
   text-align:center;
   color:#e2eaf3;
   font-family:Verdana;
-  font-size:1.2em;
+  font-size:0.9em;
   font-weight:bold;
   text-decoration:none;
 }
-
 	
   #container {
   position: relative;
@@ -122,7 +121,6 @@ canvas {
     position:fixed;
     
     left: 2%;
-    right: 2%
     width:30em;
     height:10em;
    
