@@ -1,25 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
 
 
-/* code that is here, until the first @media block, will apply to any screen size */
 
-#container {
-  position: relative;
-}
-#container canvas, #overlay {
-  position: absolute;
-}
-canvas {
-  border: 1px solid black;
-}
-#overlay {
-    position:fixed;
-    
-    left: 32%;
-    width:30em;
-    height:18em;
-   
-}
 
 
 
