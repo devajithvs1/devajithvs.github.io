@@ -20,7 +20,7 @@ canvas {
 #overlay {
     position:fixed;
     
-    left: 5%;
+    left: 0%;
     width:30em;
     height:18em;
    
@@ -41,7 +41,7 @@ canvas {
 #overlay {
     position:fixed;
     
-    left: 5%;
+    left: 10%;
     width:30em;
     height:18em;
    
@@ -62,7 +62,7 @@ canvas {
 #overlay {
     position:fixed;
     
-    left: 5%;
+    left: 32%;
     width:30em;
     height:18em;
    
