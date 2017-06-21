@@ -27,7 +27,7 @@
   background:#30588e;
 }
 	.round-button a {
-  margin-left:0%;
+  margin-left:10%;
   display:block;
   float:left;
   width:100%;
@@ -39,13 +39,13 @@
   text-align:center;
   color:#e2eaf3;
   font-family:Verdana;
-  font-size:0.6em;
+  font-size:1.2em;
   font-weight:bold;
   text-decoration:none;
 }
 	body
        {
-           font-size: 7px; 
+           font-size:12px; 
        }
        h1
        {
@@ -63,7 +63,7 @@ canvas {
 #overlay {
     position:fixed;
     
-    left: 10%;
+    left: 12%;
     width:10em;
     height:10em;
    
@@ -121,7 +121,7 @@ canvas {
 #overlay {
     position:fixed;
     
-    left: 20%;
+    left: 10%;
     width:15em;
     height:10em;
    
