@@ -8,6 +8,24 @@
 
 @media screen and (max-width: 320px) {
   /* comes into effect for screens less than or equal to 320 pixels */
+	.round-button {
+  width:25%;
+  margin-left:35%;
+}
+.round-button-circle {
+  width: 100%;
+  height:0;
+  padding-bottom: 100%;
+  border-radius: 50%;
+  border:10px solid #cfdcec;
+  overflow:hidden;
+        
+  background: #4679BD; 
+  box-shadow: 0 0 3px gray;
+}
+.round-button-circle:hover {
+  background:#30588e;
+}
 	.round-button a {
   margin-left:0%;
   display:block;
@@ -21,7 +39,7 @@
   text-align:center;
   color:#e2eaf3;
   font-family:Verdana;
-  font-size:0.1em;
+  font-size:0.6em;
   font-weight:bold;
   text-decoration:none;
 }
@@ -31,7 +49,7 @@
        }
        h1
        {
-           font-size:10px;
+           font-size:15px;
        }
   #container {
   position: relative;
@@ -54,6 +72,43 @@ canvas {
 }
 @media screen and (min-width: 321px) and (max-width: 480px) {
   /* comes into effect for screens between 321 and 480 pixels (inclusive) */
+	.round-button {
+  width:25%;
+  margin-left:35%;
+}
+.round-button-circle {
+  width: 100%;
+  height:0;
+  padding-bottom: 100%;
+  border-radius: 50%;
+  border:10px solid #cfdcec;
+  overflow:hidden;
+        
+  background: #4679BD; 
+  box-shadow: 0 0 3px gray;
+}
+.round-button-circle:hover {
+  background:#30588e;
+}
+	.round-button a {
+  margin-left:0%;
+  display:block;
+  float:left;
+  width:100%;
+  padding-top:50%;
+  padding-bottom:50%;
+  line-height:1em;
+  margin-top:-0.5em;
+        
+  text-align:center;
+  color:#e2eaf3;
+  font-family:Verdana;
+  font-size:1.2em;
+  font-weight:bold;
+  text-decoration:none;
+}
+
+	
   #container {
   position: relative;
 }
@@ -76,6 +131,25 @@ canvas {
 @media screen and (min-width: 481px) {
 	
   /* comes into effect for screens larger than or equal to 481 pixels */
+	
+	.round-button {
+  width:25%;
+  margin-left:35%;
+}
+.round-button-circle {
+  width: 100%;
+  height:0;
+  padding-bottom: 100%;
+  border-radius: 50%;
+  border:10px solid #cfdcec;
+  overflow:hidden;
+        
+  background: #4679BD; 
+  box-shadow: 0 0 3px gray;
+}
+.round-button-circle:hover {
+  background:#30588e;
+}
 	.round-button a {
   margin-left:0%;
   display:block;
@@ -116,30 +190,6 @@ canvas {
 
 
 /* code that is here will apply to any screen size */ 
-
-
-
-
-.round-button {
-  width:25%;
-  margin-left:35%;
-}
-.round-button-circle {
-  width: 100%;
-  height:0;
-  padding-bottom: 100%;
-  border-radius: 50%;
-  border:10px solid #cfdcec;
-  overflow:hidden;
-        
-  background: #4679BD; 
-  box-shadow: 0 0 3px gray;
-}
-.round-button-circle:hover {
-  background:#30588e;
-}
-
-
 
 
 
