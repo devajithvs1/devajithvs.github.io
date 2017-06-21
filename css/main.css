@@ -74,7 +74,26 @@ canvas {
 
 }
 @media screen and (min-width: 481px) {
+	
   /* comes into effect for screens larger than or equal to 481 pixels */
+	.round-button a {
+  margin-left:0%;
+  display:block;
+  float:left;
+  width:100%;
+  padding-top:50%;
+  padding-bottom:50%;
+  line-height:1em;
+  margin-top:-0.5em;
+        
+  text-align:center;
+  color:#e2eaf3;
+  font-family:Verdana;
+  font-size:1.2em;
+  font-weight:bold;
+  text-decoration:none;
+}
+
  #container {
   position: relative;
 }
